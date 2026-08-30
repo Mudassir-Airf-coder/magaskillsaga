@@ -1,0 +1,21 @@
+{
+  "skill_name": "weekly-review",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "community",
+  "author_or_org": "alirezarezvani",
+  "description_one_line": "Use when someone wants to run a weekly review, close open loops, audit stalled projects and commitments, get their system back to trusted, restart a lapsed review habit, or says \"/cs:weekly-review\". Walks David Allen's three-phase loop — GET CLEAR, GET CURRENT, GET CREATIVE — with deterministic scri",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": 192,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

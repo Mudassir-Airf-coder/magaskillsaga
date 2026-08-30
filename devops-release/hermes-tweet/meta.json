@@ -1,0 +1,18 @@
+{
+  "skill_name": "hermes-tweet",
+  "category": "devops-release",
+  "source_repo_url": "https://github.com/Xquik-dev/hermes-twee",
+  "source_type": "community",
+  "author_or_org": "Xquik-dev",
+  "description_one_line": "Uses Xquik from Hermes Agent for public X research, monitoring, thread summaries, creator discovery, and explicitly approval-gated actions. Not affiliated with X Corp. Use when the user requests X data or a named, approved X action. Trigger with \"search X\", \"monitor X\", \"post tweet\", or \"X trends\".",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

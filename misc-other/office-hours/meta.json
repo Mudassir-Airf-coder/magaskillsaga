@@ -1,0 +1,21 @@
+{
+  "skill_name": "office-hours",
+  "category": "misc-other",
+  "source_repo_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "community",
+  "author_or_org": "alirezarezvani",
+  "description_one_line": "/cs:office-hours <topic> — YC-style 6-question founder interrogation before any advice. Forces clarity on problem, customer, distribution, defensibility, capital, and founder fit. Use when a founder question is too vague to route — e.g. 'should we grow faster?' — or before drafting a strategy brief.",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": 192,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

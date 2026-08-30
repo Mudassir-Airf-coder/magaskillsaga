@@ -1,0 +1,18 @@
+{
+  "skill_name": "reduce",
+  "category": "automation-workflow",
+  "source_repo_url": "https://github.com/agenticnotetaking/arscontexta",
+  "source_type": "community",
+  "author_or_org": "agenticnotetaking",
+  "description_one_line": "Extract structured knowledge from source material. Comprehensive extraction is the default — every insight that serves the domain gets extracted. For domain-relevant sources, skip rate must be below 10%. Zero extraction from a domain-relevant source is a BUG. Triggers on \"/reduce\", \"/reduce [file]\",",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

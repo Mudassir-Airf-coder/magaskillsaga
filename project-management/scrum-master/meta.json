@@ -1,0 +1,21 @@
+{
+  "skill_name": "scrum-master",
+  "category": "project-management",
+  "source_repo_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "community",
+  "author_or_org": "alirezarezvani",
+  "description_one_line": "Advanced Scrum Master skill for data-driven agile team analysis and coaching. Use when the user asks about sprint planning, velocity tracking, retrospectives, standup facilitation, backlog grooming, story points, burndown charts, blocker resolution, or agile team health. Runs Python scripts to analy",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": 192,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

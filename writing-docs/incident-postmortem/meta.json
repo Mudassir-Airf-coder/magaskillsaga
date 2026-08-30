@@ -1,0 +1,19 @@
+{
+  "skill_name": "incident-postmortem",
+  "category": "writing-docs",
+  "source_repo_url": "https://github.com/github/awesome-copilo",
+  "source_type": "community",
+  "author_or_org": "github",
+  "description_one_line": "Use when an outage, production incident, or significant service degradation has occurred and the team needs to write a structured blameless post-mortem. Triggers on phrases like \"write a post-mortem\", \"incident review\", \"what went wrong\", \"outage report\", \"root cause analysis\", or \"RCA\". Covers time",
+  "compatible_with": [
+    "claude-code",
+    "copilot"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

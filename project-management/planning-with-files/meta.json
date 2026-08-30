@@ -1,0 +1,18 @@
+{
+  "skill_name": "planning-with-files",
+  "category": "project-management",
+  "source_repo_url": "https://github.com/OthmanAdi/planning-with-files",
+  "source_type": "community",
+  "author_or_org": "OthmanAdi",
+  "description_one_line": "Manus-style persistent file-based planning for AI coding agents: keeps task_plan.md, findings.md, and progress.md on disk so work survives context loss and /clear. Use when asked to plan out, break down, or organize a multi-step project, research task, or any work requiring 5+ tool calls. Supports a",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,21 @@
+{
+  "skill_name": "market-research",
+  "category": "marketing-seo",
+  "source_repo_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "community",
+  "author_or_org": "alirezarezvani",
+  "description_one_line": "Use when doing upstream market-research methodology — sizing a market as TAM/SAM/SOM computed BOTH top-down and bottoms-up (never a single unsourced number), planning a survey sample size with finite-population correction and per-segment minimums, or scoring candidate market segments against Kotler'",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": 192,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,21 @@
+{
+  "skill_name": "research-finance",
+  "category": "business-finance-legal",
+  "source_repo_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "community",
+  "author_or_org": "alirezarezvani",
+  "description_one_line": "Use when managing the money for an internal R&D program or portfolio — building a multi-period program budget with the F&A (indirect) split, tracking burn rate and runway against value-inflection milestones, or routing R&D cost items to a capitalize-vs-expense determination. Every budget output surf",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": 192,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,19 @@
+{
+  "skill_name": "qdrant-performance-optimization",
+  "category": "devops-release",
+  "source_repo_url": "https://github.com/github/awesome-copilo",
+  "source_type": "community",
+  "author_or_org": "github",
+  "description_one_line": "Different techniques to optimize the performance of Qdrant, including indexing strategies, query optimization, and hardware considerations. Use when you want to improve the speed and efficiency of your Qdrant deployment.",
+  "compatible_with": [
+    "claude-code",
+    "copilot"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

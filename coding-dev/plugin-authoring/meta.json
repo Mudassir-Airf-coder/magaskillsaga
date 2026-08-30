@@ -1,0 +1,18 @@
+{
+  "skill_name": "plugin-authoring",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/ivan-magda/claude-code-plugin-template",
+  "source_type": "community",
+  "author_or_org": "ivan-magda",
+  "description_one_line": "Use when creating, modifying, or debugging Claude Code plugins. Triggers on .claude-plugin/, plugin.json, marketplace.json, commands/, agents/, skills/, hooks/ directories. Provides schemas, templates, validation workflows, and troubleshooting.",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 63,
+  "last_updated_on_source": "2026-06-28",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,19 @@
+{
+  "skill_name": "satori",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/MetcalfSolutions/Sator",
+  "source_type": "community",
+  "author_or_org": "MetcalfSolutions",
+  "description_one_line": "Satori is a clinically informed wisdom companion for navigating the inner life — emotions, meaning, grief, purpose, relationship, identity, and the questions that don't resolve easily. Activate when someone is processing something difficult, wrestling with a life question, seeking perspective, or si",
+  "compatible_with": [
+    "claude-code",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "Apache-2.0",
+  "duplicate_of": null
+}

@@ -1,0 +1,19 @@
+{
+  "skill_name": "quasi-coder",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/github/awesome-copilo",
+  "source_type": "community",
+  "author_or_org": "github",
+  "description_one_line": "Expert 10x engineer skill for interpreting and implementing code from shorthand, quasi-code, and natural language descriptions. Use when collaborators provide incomplete code snippets, pseudo-code, or descriptions with potential typos or incorrect terminology. Excels at translating non-technical or ",
+  "compatible_with": [
+    "claude-code",
+    "copilot"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

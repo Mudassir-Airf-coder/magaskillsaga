@@ -1,0 +1,21 @@
+{
+  "skill_name": "marketing-skills",
+  "category": "marketing-seo",
+  "source_repo_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "community",
+  "author_or_org": "alirezarezvani",
+  "description_one_line": "Directory and router for the marketing skills library. Use when you need to find the right marketing skill for a task, see what marketing capabilities exist, or get oriented in this plugin. 44 specialist skills across 8 pods (content, SEO + AEO, CRO, channels, growth, intelligence, sales enablement,",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": 192,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,18 @@
+{
+  "skill_name": "seed",
+  "category": "misc-other",
+  "source_repo_url": "https://github.com/agenticnotetaking/arscontexta",
+  "source_type": "community",
+  "author_or_org": "agenticnotetaking",
+  "description_one_line": "Add a source file to the processing queue. Checks for duplicates, creates archive folder, moves source from inbox, creates extract task, and updates queue. Triggers on \"/seed\", \"/seed [file]\", \"queue this for processing\".",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

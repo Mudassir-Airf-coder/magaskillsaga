@@ -1,0 +1,22 @@
+{
+  "skill_name": "coverage-check",
+  "category": "writing-docs",
+  "source_repo_url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+  "source_type": "community",
+  "author_or_org": "SerhiiKorniienko",
+  "description_one_line": "Count how many independent origins are behind news coverage of a claim, instead of counting URLs. Queries GDELT for matching articles, collapses reprints and wire copy into single origins, and flags publication bursts that indicate syndication. Use when a claim appears to be confirmed by many outlet",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,19 @@
+{
+  "skill_name": "winmd-api-search",
+  "category": "misc-other",
+  "source_repo_url": "https://github.com/github/awesome-copilo",
+  "source_type": "community",
+  "author_or_org": "github",
+  "description_one_line": "Find and explore Windows desktop APIs. Use when building features that need platform capabilities — camera, file access, notifications, UI controls, AI/ML, sensors, networking, etc. Discovers the right API for a task and retrieves full type details (methods, properties, events, enumeration values).",
+  "compatible_with": [
+    "claude-code",
+    "copilot"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,19 @@
+{
+  "skill_name": "adobe-illustrator-scripting",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/github/awesome-copilo",
+  "source_type": "community",
+  "author_or_org": "github",
+  "description_one_line": "Write, debug, and optimize Adobe Illustrator automation scripts using ExtendScript (JavaScript/JSX). Use when creating or modifying scripts that manipulate documents, layers, paths, text frames, colors, symbols, artboards, or any Illustrator DOM objects. Covers the complete JavaScript object model, ",
+  "compatible_with": [
+    "claude-code",
+    "copilot"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

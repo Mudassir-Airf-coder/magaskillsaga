@@ -1,0 +1,19 @@
+{
+  "skill_name": "ax-extract-workflow",
+  "category": "misc-other",
+  "source_repo_url": "https://github.com/Necmttn/ax",
+  "source_type": "community",
+  "author_or_org": "Necmttn",
+  "description_one_line": "Reconstruct the workflow behind a past artifact - \"what made X work\" / \"extract workflow from <date|sha>\" / \"how did we ship Y\". Uses ax to find the relevant sessions and narrate the ordered skill arcs that produced the result. Triggers on \"what made X work\", \"how did we build Y\", \"extract workflow ",
+  "compatible_with": [
+    "claude-code",
+    "codex"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "GPL-3.0",
+  "duplicate_of": null
+}

@@ -1,0 +1,21 @@
+{
+  "skill_name": "pm-skills",
+  "category": "project-management",
+  "source_repo_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "community",
+  "author_or_org": "alirezarezvani",
+  "description_one_line": "Use when coordinating project-delivery work across the 8 project-management sub-skills — sprint/velocity analytics, portfolio health, Jira/JQL, Confluence, Atlassian admin, templates, meeting analysis, team comms. Triggers on 'our sprints feel off', 'project health report', 'audit our Jira permissio",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": 192,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

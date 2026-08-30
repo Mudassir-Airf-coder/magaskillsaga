@@ -1,0 +1,18 @@
+{
+  "skill_name": "dream",
+  "category": "misc-other",
+  "source_repo_url": "https://github.com/sneg55/agent-starter",
+  "source_type": "community",
+  "author_or_org": "sneg55",
+  "description_one_line": "Memory consolidation - review, merge, prune, and index memory files. Run periodically to keep memories organized and up-to-date.",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 79,
+  "last_updated_on_source": "2026-07-27",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

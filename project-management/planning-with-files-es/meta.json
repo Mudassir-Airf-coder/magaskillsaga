@@ -1,0 +1,18 @@
+{
+  "skill_name": "planning-with-files-es",
+  "category": "project-management",
+  "source_repo_url": "https://github.com/OthmanAdi/planning-with-files",
+  "source_type": "community",
+  "author_or_org": "OthmanAdi",
+  "description_one_line": "Sistema de planificación basado en archivos estilo Manus para organizar y rastrear el progreso de tareas complejas. Crea task_plan.md, findings.md y progress.md. Cuando el usuario solicita planificación, desglose u organización de proyectos multipaso, tareas de investigación o trabajos que requieren",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

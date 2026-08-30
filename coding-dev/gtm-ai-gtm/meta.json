@@ -1,0 +1,19 @@
+{
+  "skill_name": "gtm-ai-gtm",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/github/awesome-copilo",
+  "source_type": "community",
+  "author_or_org": "github",
+  "description_one_line": "Go-to-market strategy for AI products. Use when positioning AI products, handling \"who is responsible when it breaks\" objections, pricing variable-cost AI, choosing between copilot/agent/teammate framing, or selling autonomous tools into enterprises.",
+  "compatible_with": [
+    "claude-code",
+    "copilot"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

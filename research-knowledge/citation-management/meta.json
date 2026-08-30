@@ -1,0 +1,18 @@
+{
+  "skill_name": "citation-management",
+  "category": "research-knowledge",
+  "source_repo_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "source_type": "community",
+  "author_or_org": "K-Dense-AI",
+  "description_one_line": "Comprehensive citation management for academic research. Search OpenAlex, PubMed, and Google Scholar for papers, extract accurate metadata, validate citations, and generate properly formatted BibTeX entries. This skill should be used when you need to find papers, verify citation information, convert",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 32440,
+  "last_updated_on_source": "2026-07-31",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "32440 stars; has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

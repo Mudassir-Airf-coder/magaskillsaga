@@ -1,0 +1,18 @@
+{
+  "skill_name": "cost-optimizer",
+  "category": "project-management",
+  "source_repo_url": "https://github.com/mergisi/awesome-openclaw-agents",
+  "source_type": "community",
+  "author_or_org": "mergisi",
+  "description_one_line": "Trigger when the user asks to audit Claude Code costs, reduce token spend, says \"my Claude bill is too high\", \"optimize my CLAUDE.md\", \"why is this project burning tokens\", or \"/cost-optimizer\". Scans a project for the common Claude Code cost leaks and returns a prioritized fix list.",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 3873,
+  "last_updated_on_source": "2026-05-25",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "3873 stars",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,18 @@
+{
+  "skill_name": "dask",
+  "category": "data-analysis",
+  "source_repo_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "source_type": "community",
+  "author_or_org": "K-Dense-AI",
+  "description_one_line": "Distributed computing for larger-than-RAM pandas/NumPy workflows. Use when you need to scale existing pandas/NumPy code beyond memory or across clusters. Best for parallel file processing, distributed ML, integration with existing pandas code. For out-of-core analytics on single machine use vaex; fo",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 32440,
+  "last_updated_on_source": "2026-07-31",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "32440 stars; has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

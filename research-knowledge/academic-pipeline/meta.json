@@ -1,0 +1,18 @@
+{
+  "skill_name": "academic-pipeline",
+  "category": "research-knowledge",
+  "source_repo_url": "https://github.com/Imbad0202/academic-research-skills",
+  "source_type": "community",
+  "author_or_org": "Imbad0202",
+  "description_one_line": "Orchestrator for the full academic research pipeline: research -> write -> integrity check -> review -> revise -> re-review -> re-revise -> final integrity check -> finalize. Coordinates deep-research, academic-paper, and academic-paper-reviewer into a seamless 10-stage workflow with mandatory integ",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 40617,
+  "last_updated_on_source": "2026-08-03",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "40617 stars; has bundled scripts/references",
+  "license": "unknown",
+  "duplicate_of": null
+}

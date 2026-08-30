@@ -1,0 +1,18 @@
+{
+  "skill_name": "ci-cd-pipelines",
+  "category": "devops-release",
+  "source_repo_url": "https://github.com/rohitg00/awesome-claude-code-toolk",
+  "source_type": "community",
+  "author_or_org": "rohitg00",
+  "description_one_line": "CI/CD pipeline patterns for GitHub Actions, GitLab CI, testing strategies, and deployment automation",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "Apache-2.0",
+  "duplicate_of": null
+}

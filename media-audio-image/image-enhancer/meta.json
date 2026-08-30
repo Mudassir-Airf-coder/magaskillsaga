@@ -1,0 +1,22 @@
+{
+  "skill_name": "image-enhancer",
+  "category": "media-audio-image",
+  "source_repo_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "source_type": "company",
+  "author_or_org": "ComposioHQ",
+  "description_one_line": "Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": 71641,
+  "last_updated_on_source": "2026-07-24",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "71641 stars",
+  "license": "unknown",
+  "duplicate_of": null
+}

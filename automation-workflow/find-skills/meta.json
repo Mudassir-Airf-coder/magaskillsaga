@@ -1,0 +1,18 @@
+{
+  "skill_name": "find-skills",
+  "category": "automation-workflow",
+  "source_repo_url": "https://github.com/CherryHQ/cherry-studio",
+  "source_type": "community",
+  "author_or_org": "CherryHQ",
+  "description_one_line": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable ski",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 49314,
+  "last_updated_on_source": "2026-08-03",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "49314 stars",
+  "license": "GPL-3.0",
+  "duplicate_of": null
+}

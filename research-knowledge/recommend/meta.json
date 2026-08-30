@@ -1,0 +1,18 @@
+{
+  "skill_name": "recommend",
+  "category": "research-knowledge",
+  "source_repo_url": "https://github.com/agenticnotetaking/arscontexta",
+  "source_type": "community",
+  "author_or_org": "agenticnotetaking",
+  "description_one_line": "Get research-backed architecture advice for your knowledge system. Describe your use case, constraints, and goals — get specific recommendations grounded in TFT research with rationale for each decision. Triggers on \"/recommend\", \"what would you recommend\", \"architecture advice\", \"knowledge system f",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

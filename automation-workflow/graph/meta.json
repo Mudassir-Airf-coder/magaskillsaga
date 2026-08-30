@@ -1,0 +1,18 @@
+{
+  "skill_name": "graph",
+  "category": "automation-workflow",
+  "source_repo_url": "https://github.com/agenticnotetaking/arscontexta",
+  "source_type": "community",
+  "author_or_org": "agenticnotetaking",
+  "description_one_line": "Interactive knowledge graph analysis. Routes natural language questions to graph scripts, interprets results in domain vocabulary, and suggests concrete actions. Triggers on \"/graph\", \"/graph health\", \"/graph triangles\", \"find synthesis opportunities\", \"graph analysis\".",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,18 @@
+{
+  "skill_name": "academic-paper",
+  "category": "research-knowledge",
+  "source_repo_url": "https://github.com/Imbad0202/academic-research-skills",
+  "source_type": "community",
+  "author_or_org": "Imbad0202",
+  "description_one_line": "12-agent academic paper writing pipeline. 11 modes (full/plan/outline/revision/revision-coach/abstract/lit-review/format-convert/citation-check/disclosure/rebuttal-audit). 6 paper types, 5 citation formats, bilingual abstracts, LaTeX/DOCX-via-Pandoc/PDF output. Style Calibration + Writing Quality Ch",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 40617,
+  "last_updated_on_source": "2026-08-03",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "40617 stars; has bundled scripts/references",
+  "license": "unknown",
+  "duplicate_of": null
+}

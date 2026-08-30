@@ -1,0 +1,22 @@
+{
+  "skill_name": "report-card",
+  "category": "writing-docs",
+  "source_repo_url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+  "source_type": "community",
+  "author_or_org": "SerhiiKorniienko",
+  "description_one_line": "Render a finished BS report as a self-contained HTML page — score hero, filterable claims, readable on a phone, prints to a clean PDF. Use when the user wants to open, share, print, or show a report to someone who is not going to read a markdown table, or asks for \"the HTML version\", \"something I ca",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

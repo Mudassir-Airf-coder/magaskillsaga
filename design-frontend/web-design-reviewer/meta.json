@@ -1,0 +1,19 @@
+{
+  "skill_name": "web-design-reviewer",
+  "category": "design-frontend",
+  "source_repo_url": "https://github.com/github/awesome-copilo",
+  "source_type": "community",
+  "author_or_org": "github",
+  "description_one_line": "This skill enables visual inspection of websites running locally or remotely to identify and fix design issues. Triggers on requests like \"review website design\", \"check the UI\", \"fix the layout\", \"find design problems\". Detects issues with responsive design, accessibility, visual consistency, and l",
+  "compatible_with": [
+    "claude-code",
+    "copilot"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

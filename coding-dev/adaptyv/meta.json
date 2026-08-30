@@ -1,0 +1,18 @@
+{
+  "skill_name": "adaptyv",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "source_type": "community",
+  "author_or_org": "K-Dense-AI",
+  "description_one_line": "How to use the Adaptyv Bio Foundry API and Python SDK for protein experiment design, submission, and results retrieval. Use this skill whenever the user mentions Adaptyv, Foundry API, protein binding assays, protein screening experiments, BLI/SPR assays, thermostability assays, or wants to submit pr",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 32440,
+  "last_updated_on_source": "2026-07-31",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "32440 stars; has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,20 @@
+{
+  "skill_name": "karpathy-llm-wiki",
+  "category": "research-knowledge",
+  "source_repo_url": "https://github.com/Astro-Han/karpathy-llm-wik",
+  "source_type": "community",
+  "author_or_org": "Astro-Han",
+  "description_one_line": "Use when building or maintaining a personal LLM-powered knowledge base. Triggers: ingesting sources into a wiki, querying wiki knowledge, linting wiki quality, 'add to wiki', 'what do I know about', or any mention of 'LLM wiki' or 'Karpathy wiki'.",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

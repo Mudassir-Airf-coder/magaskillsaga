@@ -1,0 +1,18 @@
+{
+  "skill_name": "ask",
+  "category": "research-knowledge",
+  "source_repo_url": "https://github.com/agenticnotetaking/arscontexta",
+  "source_type": "community",
+  "author_or_org": "agenticnotetaking",
+  "description_one_line": "Query the bundled research knowledge graph for methodology guidance. Routes questions through a 3-tier knowledge base — WHY (research claims), HOW (guidance docs), WHAT IT LOOKS LIKE (domain examples) — plus structured reference documents. Returns research-backed answers grounded in specific claims ",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

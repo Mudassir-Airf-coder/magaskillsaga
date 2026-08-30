@@ -1,0 +1,19 @@
+{
+  "skill_name": "pdf",
+  "category": "media-audio-image",
+  "source_repo_url": "https://github.com/anthropics/skills",
+  "source_type": "official",
+  "author_or_org": "anthropics",
+  "description_one_line": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, ext",
+  "compatible_with": [
+    "claude-code",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "official source (anthropics); has bundled scripts/references",
+  "license": "unknown",
+  "duplicate_of": null
+}

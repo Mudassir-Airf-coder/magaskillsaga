@@ -1,0 +1,18 @@
+{
+  "skill_name": "openclaw-debugger",
+  "category": "misc-other",
+  "source_repo_url": "https://github.com/mergisi/awesome-openclaw-agents",
+  "source_type": "community",
+  "author_or_org": "mergisi",
+  "description_one_line": "Trigger when an OpenClaw agent is broken, silent, crashing, stuck, not responding, returning empty output, or the user says \"my agent is down\", \"agent not working\", \"/openclaw-debugger\". Walks through the standard OpenClaw 2026.4 diagnosis checklist and prints a report.",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 3873,
+  "last_updated_on_source": "2026-05-25",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "3873 stars",
+  "license": "MIT",
+  "duplicate_of": null
+}

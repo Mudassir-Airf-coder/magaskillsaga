@@ -1,0 +1,19 @@
+{
+  "skill_name": "slack-gif-creator",
+  "category": "design-frontend",
+  "source_repo_url": "https://github.com/anthropics/skills",
+  "source_type": "official",
+  "author_or_org": "anthropics",
+  "description_one_line": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.",
+  "compatible_with": [
+    "claude-code",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "official source (anthropics)",
+  "license": "unknown",
+  "duplicate_of": null
+}

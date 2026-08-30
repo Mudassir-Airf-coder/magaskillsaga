@@ -1,0 +1,18 @@
+{
+  "skill_name": "arbor",
+  "category": "automation-workflow",
+  "source_repo_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "source_type": "community",
+  "author_or_org": "K-Dense-AI",
+  "description_one_line": "Autonomously improve a real artifact (code, training recipe, agent harness, data pipeline, prompt) against an objective and an evaluator, using Hypothesis Tree Refinement (HTR) from the Arbor paper. Use this whenever someone wants to iteratively optimize something over many experiments without overf",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 32440,
+  "last_updated_on_source": "2026-07-31",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "32440 stars; has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,19 @@
+{
+  "skill_name": "release-announcement",
+  "category": "design-frontend",
+  "source_repo_url": "https://github.com/Necmttn/ax",
+  "source_type": "community",
+  "author_or_org": "Necmttn",
+  "description_one_line": "Draft or revise ax release announcements and website changelog pages. Triggers when the user says \"write release notes\", \"draft release announcement\", \"prepare changelog\", \"release page\", \"version page\", \"what changed in vX.Y.Z\", \"generate announcement for vX.Y.Z\", or asks for a release narrative. U",
+  "compatible_with": [
+    "claude-code",
+    "codex"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "GPL-3.0",
+  "duplicate_of": null
+}

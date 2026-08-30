@@ -1,0 +1,19 @@
+{
+  "skill_name": "init-project",
+  "category": "misc-other",
+  "source_repo_url": "https://github.com/UfoMiao/zcf",
+  "source_type": "community",
+  "author_or_org": "UfoMiao",
+  "description_one_line": "Initialize project AI context, generate/update root-level and module-level CLAUDE.md indexes",
+  "compatible_with": [
+    "claude-code",
+    "codex"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,21 @@
+{
+  "skill_name": "caveman-compress",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/JuliusBrussee/caveman",
+  "source_type": "community",
+  "author_or_org": "JuliusBrussee",
+  "description_one_line": ">",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": 95332,
+  "last_updated_on_source": "2026-07-26",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "95332 stars; has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

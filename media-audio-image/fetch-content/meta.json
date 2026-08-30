@@ -1,0 +1,22 @@
+{
+  "skill_name": "fetch-content",
+  "category": "media-audio-image",
+  "source_repo_url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+  "source_type": "community",
+  "author_or_org": "SerhiiKorniienko",
+  "description_one_line": "Fetch and normalize any content source into clean text with metadata — YouTube video transcripts, TikTok captions, web articles, PDFs, tweets/X posts, local files. Use when the user shares a YouTube link, TikTok link, article URL, tweet/X link, or PDF (URL or file) and you need its actual text conte",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

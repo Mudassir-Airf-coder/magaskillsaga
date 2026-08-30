@@ -1,0 +1,18 @@
+{
+  "skill_name": "analytical-method-validation",
+  "category": "writing-docs",
+  "source_repo_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "source_type": "community",
+  "author_or_org": "K-Dense-AI",
+  "description_one_line": "Plan, execute, and document validation, verification, and transfer of analytical procedures under the governing framework - ICH Q2(R2) and Q14, USP <1220>/<1225>/<1226>, ICH M10 bioanalytical, CLSI EP, or ISO/IEC 17025. Use for HPLC, LC-MS/MS, GC, CE, ICP-MS, dissolution, qNMR, qPCR, NIR, and ligand",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 32440,
+  "last_updated_on_source": "2026-07-31",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "32440 stars; has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

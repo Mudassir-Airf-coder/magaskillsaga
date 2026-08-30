@@ -1,0 +1,18 @@
+{
+  "skill_name": "model-cost-compare",
+  "category": "business-finance-legal",
+  "source_repo_url": "https://github.com/mergisi/awesome-openclaw-agents",
+  "source_type": "community",
+  "author_or_org": "mergisi",
+  "description_one_line": "Trigger when the user asks which model to use, wants to compare model costs, says \"what's cheapest for this task\", \"should I use Opus or Sonnet\", \"can a smaller model handle this\", or \"/model-cost-compare\". Estimates token cost across Opus 4.6, Sonnet 4.6, GLM-5.1, Minimax M2.7, and local Gemma 4, t",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 3873,
+  "last_updated_on_source": "2026-05-25",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "3873 stars",
+  "license": "MIT",
+  "duplicate_of": null
+}

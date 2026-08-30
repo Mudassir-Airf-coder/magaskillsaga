@@ -1,0 +1,19 @@
+{
+  "skill_name": "decision-eval",
+  "category": "automation-workflow",
+  "source_repo_url": "https://github.com/avelikiy/great_cto",
+  "source_type": "community",
+  "author_or_org": "avelikiy",
+  "description_one_line": "Spawns the decision-scorer agent after architect proposes 2+ variants in an ADR. Produces a weighted scoring table and recommended choice saved to docs/decisions/.",
+  "compatible_with": [
+    "claude-code",
+    "codex"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

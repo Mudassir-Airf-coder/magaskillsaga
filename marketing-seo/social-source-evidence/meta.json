@@ -1,0 +1,20 @@
+{
+  "skill_name": "social-source-evidence",
+  "category": "marketing-seo",
+  "source_repo_url": "https://github.com/avifenesh/agnix",
+  "source_type": "community",
+  "author_or_org": "avifenesh",
+  "description_one_line": "Use when reviewing X/Twitter exports as source evidence for social content decisions.",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "Apache-2.0",
+  "duplicate_of": null
+}

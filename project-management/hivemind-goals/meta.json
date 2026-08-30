@@ -1,0 +1,20 @@
+{
+  "skill_name": "hivemind-goals",
+  "category": "project-management",
+  "source_repo_url": "https://github.com/activeloopai/hivemind",
+  "source_type": "community",
+  "author_or_org": "activeloopai",
+  "description_one_line": "Create, track and update team goals + KPIs via the Deeplake virtual filesystem at memory/goal/ and memory/kpi/. Use whenever the user mentions a goal, objective, KPI, target, milestone, or asks to track progress on something measurable. ALSO use when the user says \"task\", \"todo\", \"work item\", \"remin",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "Apache-2.0",
+  "duplicate_of": null
+}

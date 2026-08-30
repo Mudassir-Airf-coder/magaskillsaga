@@ -1,0 +1,20 @@
+{
+  "skill_name": "plannotator-last",
+  "category": "communication",
+  "source_repo_url": "https://github.com/backnotprop/plannotator",
+  "source_type": "community",
+  "author_or_org": "backnotprop",
+  "description_one_line": "Open Plannotator on the latest rendered assistant message and use the returned annotations to revise that message or continue.",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "Apache-2.0",
+  "duplicate_of": null
+}

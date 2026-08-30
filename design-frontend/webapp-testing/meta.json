@@ -1,0 +1,19 @@
+{
+  "skill_name": "webapp-testing",
+  "category": "design-frontend",
+  "source_repo_url": "https://github.com/anthropics/skills",
+  "source_type": "official",
+  "author_or_org": "anthropics",
+  "description_one_line": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+  "compatible_with": [
+    "claude-code",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "official source (anthropics); has bundled scripts/references",
+  "license": "unknown",
+  "duplicate_of": null
+}

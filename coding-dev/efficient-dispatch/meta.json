@@ -1,0 +1,19 @@
+{
+  "skill_name": "efficient-dispatch",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/Necmttn/ax",
+  "source_type": "community",
+  "author_or_org": "Necmttn",
+  "description_one_line": "Model-routing orchestration for any expensive frontier model (Fable, Opus, GPT-5.x) - the main model keeps judgment and Q&A review, mechanical subagent dispatches carry an explicit cheaper model, and ax measures whether the routing actually worked. Use when orchestrating codebase-heavy or token-heav",
+  "compatible_with": [
+    "claude-code",
+    "codex"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "GPL-3.0",
+  "duplicate_of": null
+}

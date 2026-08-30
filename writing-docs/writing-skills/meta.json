@@ -1,0 +1,18 @@
+{
+  "skill_name": "writing-skills",
+  "category": "writing-docs",
+  "source_repo_url": "https://github.com/obra/superpowers",
+  "source_type": "community",
+  "author_or_org": "obra",
+  "description_one_line": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "verified clean - flagged by false-positive regex (regex.exec() JS call)",
+  "license": "unknown",
+  "duplicate_of": null
+}

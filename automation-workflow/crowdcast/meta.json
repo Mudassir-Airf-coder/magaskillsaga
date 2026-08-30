@@ -1,0 +1,18 @@
+{
+  "skill_name": "crowdcast",
+  "category": "automation-workflow",
+  "source_repo_url": "https://github.com/TheQmaks/crowdcas",
+  "source_type": "community",
+  "author_or_org": "TheQmaks",
+  "description_one_line": "Run multi-agent social simulations for prediction and creative exploration. Use when the user wants to simulate group behavior, predict public reactions, explore fictional scenarios, or analyze how agents would interact. Trigger words - \"simulate\", \"prediction\", \"multi-agent\", \"what would happen if\"",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "unknown",
+  "duplicate_of": null
+}

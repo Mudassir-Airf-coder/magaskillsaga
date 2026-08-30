@@ -1,0 +1,22 @@
+{
+  "skill_name": "connect",
+  "category": "communication",
+  "source_repo_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "source_type": "company",
+  "author_or_org": "ComposioHQ",
+  "description_one_line": "Connect Claude to any app. Send emails, create issues, post messages, update databases - take real actions across Gmail, Slack, GitHub, Notion, and 1000+ services.",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": 71641,
+  "last_updated_on_source": "2026-07-24",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "71641 stars",
+  "license": "unknown",
+  "duplicate_of": null
+}

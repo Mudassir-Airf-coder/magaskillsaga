@@ -1,0 +1,19 @@
+{
+  "skill_name": "vertical-real-estate",
+  "category": "misc-other",
+  "source_repo_url": "https://github.com/avelikiy/great_cto",
+  "source_type": "community",
+  "author_or_org": "avelikiy",
+  "description_one_line": "Residential-proptech domain knowledge so architect / pm aren't naive when speccing real-estate products (listings, lead-crm, transaction-coordination, property-mgmt). Codifies MLS/IDX reality, listing status lifecycle + syndication canonical-source, long-cycle lead nurture, transaction-coordination ",
+  "compatible_with": [
+    "claude-code",
+    "codex"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

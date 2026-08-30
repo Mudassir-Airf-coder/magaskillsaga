@@ -1,0 +1,19 @@
+{
+  "skill_name": "competitor-ad-intelligence",
+  "category": "design-frontend",
+  "source_repo_url": "https://github.com/github/awesome-copilo",
+  "source_type": "community",
+  "author_or_org": "github",
+  "description_one_line": "Use this skill when the user asks to analyze, tear down, or reverse-engineer a competitor''s paid ads. Trigger for prompts like \"what ads is [competitor] running\", \"tear down their ad strategy\", \"competitor ad analysis\", \"find ad angles we haven''t tried\", or \"reverse-engineer their paid funnel\". Do",
+  "compatible_with": [
+    "claude-code",
+    "copilot"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

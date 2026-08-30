@@ -1,0 +1,18 @@
+{
+  "skill_name": "planning-with-files-ar",
+  "category": "project-management",
+  "source_repo_url": "https://github.com/OthmanAdi/planning-with-files",
+  "source_type": "community",
+  "author_or_org": "OthmanAdi",
+  "description_one_line": "نظام تخطيط الملفات بنمط Manus لتنظيم وتتبع تقدم المهام المعقدة. ينشئ ملفات task_plan.md و findings.md و progress.md. يُستخدم عند طلب التخطيط أو تحليل المهام أو تنظيم المشاريع أو تتبع التقدم أو الخطط متعددة الخطوات. يدعم الاستعادة التلقائية للجلسة بعد /clear. كلمات التشغيل: تخطيط المهام، إدارة المشار",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

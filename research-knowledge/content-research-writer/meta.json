@@ -1,0 +1,22 @@
+{
+  "skill_name": "content-research-writer",
+  "category": "research-knowledge",
+  "source_repo_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "source_type": "company",
+  "author_or_org": "ComposioHQ",
+  "description_one_line": "Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing process from solo effort to collaborative partnership.",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": 71641,
+  "last_updated_on_source": "2026-07-24",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "71641 stars",
+  "license": "unknown",
+  "duplicate_of": null
+}

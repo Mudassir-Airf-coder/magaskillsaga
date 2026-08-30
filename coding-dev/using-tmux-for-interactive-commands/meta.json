@@ -1,0 +1,18 @@
+{
+  "skill_name": "using-tmux-for-interactive-commands",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/obra/superpowers-lab",
+  "source_type": "community",
+  "author_or_org": "obra",
+  "description_one_line": "Use when you need to run interactive CLI tools (vim, git rebase -i, Python REPL, etc.) that require real-time input/output - provides tmux-based approach for controlling interactive sessions through detached sessions and send-keys",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

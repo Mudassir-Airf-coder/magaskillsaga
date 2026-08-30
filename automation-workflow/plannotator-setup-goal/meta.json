@@ -1,0 +1,20 @@
+{
+  "skill_name": "plannotator-setup-goal",
+  "category": "automation-workflow",
+  "source_repo_url": "https://github.com/backnotprop/plannotator",
+  "source_type": "community",
+  "author_or_org": "backnotprop",
+  "description_one_line": "Turn an idea or objective into a goal package for /goal. Interviews the user, builds a reviewed fact sheet via Plannotator, then explores the codebase to produce an execution plan.",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "Apache-2.0",
+  "duplicate_of": null
+}

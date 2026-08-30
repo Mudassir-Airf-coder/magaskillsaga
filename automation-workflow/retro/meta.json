@@ -1,0 +1,19 @@
+{
+  "skill_name": "retro",
+  "category": "automation-workflow",
+  "source_repo_url": "https://github.com/Necmttn/ax",
+  "source_type": "community",
+  "author_or_org": "Necmttn",
+  "description_one_line": "Guided experiment-loop retrospective over the ax agent-experience graph. Walks the user through their open proposals (accept-with-scaffold or reject), pending verdicts (confirm the suggested verdict or override), and recent harness-hook effectiveness signal. Triggers when the user says \"let's do an ",
+  "compatible_with": [
+    "claude-code",
+    "codex"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "GPL-3.0",
+  "duplicate_of": null
+}

@@ -1,0 +1,21 @@
+{
+  "skill_name": "local-seo-manager",
+  "category": "business-finance-legal",
+  "source_repo_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "community",
+  "author_or_org": "alirezarezvani",
+  "description_one_line": "Manage local SEO for service-area businesses — appliance repair, HVAC, plumbing, cleaning, and any business that serves customers at their location. Use when the user wants to: audit Google Business Profile, generate neighborhood service area pages, check NAP consistency across directories, create L",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": 192,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

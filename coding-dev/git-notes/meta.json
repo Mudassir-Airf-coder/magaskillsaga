@@ -1,0 +1,19 @@
+{
+  "skill_name": "git-notes",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/NeoLabHQ/context-engineering-k",
+  "source_type": "community",
+  "author_or_org": "NeoLabHQ",
+  "description_one_line": "Use when adding metadata to commits without changing history, tracking review status, test results, code quality annotations, or supplementing commit messages post-hoc - provides git notes commands and patterns for attaching non-invasive metadata to Git objects.",
+  "compatible_with": [
+    "claude-code",
+    "cursor"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "GPL-3.0",
+  "duplicate_of": null
+}

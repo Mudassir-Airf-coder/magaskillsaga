@@ -1,0 +1,19 @@
+{
+  "skill_name": "dojo",
+  "category": "misc-other",
+  "source_repo_url": "https://github.com/Necmttn/ax",
+  "source_type": "community",
+  "author_or_org": "Necmttn",
+  "description_one_line": "Surplus-quota training loop over the ax graph - the agent burns the remaining 5h/7d plan-quota window on self-improvement: locking pending verdicts, filling briefs, backtesting routing classes, minting proposals, running worktree experiments, and drafting upstream issue reports. Triggers when the us",
+  "compatible_with": [
+    "claude-code",
+    "codex"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "GPL-3.0",
+  "duplicate_of": null
+}

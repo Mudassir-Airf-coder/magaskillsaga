@@ -1,0 +1,22 @@
+{
+  "skill_name": "domain-name-brainstormer",
+  "category": "design-frontend",
+  "source_repo_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "source_type": "company",
+  "author_or_org": "ComposioHQ",
+  "description_one_line": "Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). Saves hours of brainstorming and manual checking.",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": 71641,
+  "last_updated_on_source": "2026-07-24",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "71641 stars",
+  "license": "unknown",
+  "duplicate_of": null
+}

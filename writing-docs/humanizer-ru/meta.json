@@ -1,0 +1,22 @@
+{
+  "skill_name": "humanizer-ru",
+  "category": "writing-docs",
+  "source_repo_url": "https://github.com/Vladimir-Human/humanizer-ru",
+  "source_type": "community",
+  "author_or_org": "Vladimir-Human",
+  "description_one_line": "Проверяет русскоязычный текст на следы машинной генерации и по явной просьбе пользователя переписывает его естественным языком. Отвечает на просьбы вида «очеловечь», «убери гпт-шность», «звучит как нейросеть», «проверь на ИИ», «убери штампы», «убери канцелярит», «сделай живым». Detects AI-generated ",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

@@ -1,0 +1,18 @@
+{
+  "skill_name": "excalidraw-architecture",
+  "category": "coding-dev",
+  "source_repo_url": "https://github.com/mergisi/awesome-openclaw-agents",
+  "source_type": "community",
+  "author_or_org": "mergisi",
+  "description_one_line": "Trigger when the user asks for an architecture diagram, says \"draw the system\", \"update the architecture diagram\", \"give me an excalidraw of this codebase\", or \"/excalidraw-architecture\". Generates or updates an Excalidraw JSON file at docs/architecture.excalidraw by reading the codebase's key entry",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 3873,
+  "last_updated_on_source": "2026-05-25",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "3873 stars",
+  "license": "MIT",
+  "duplicate_of": null
+}

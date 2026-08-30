@@ -1,0 +1,21 @@
+{
+  "skill_name": "procurement-optimizer",
+  "category": "business-finance-legal",
+  "source_repo_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "community",
+  "author_or_org": "alirezarezvani",
+  "description_one_line": "Use when running an annual SaaS audit, doing category-level spend review, or rationalizing the supplier base — when the user needs a spend audit, spend categorization (UNSPSC-aligned with Pareto breakdown and industry profiles), purchasing-cycle analysis (bottleneck categories per Goldratt's Theory ",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli"
+  ],
+  "stars_or_popularity_signal": 192,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}

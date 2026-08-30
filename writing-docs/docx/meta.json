@@ -1,0 +1,19 @@
+{
+  "skill_name": "docx",
+  "category": "writing-docs",
+  "source_repo_url": "https://github.com/anthropics/skills",
+  "source_type": "official",
+  "author_or_org": "anthropics",
+  "description_one_line": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files) or Word templates (.dotx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', '.dotx', or requests to produce professional documents with formatting like tables of conte",
+  "compatible_with": [
+    "claude-code",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "official source (anthropics); has bundled scripts/references",
+  "license": "unknown",
+  "duplicate_of": null
+}

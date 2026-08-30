@@ -1,0 +1,22 @@
+{
+  "skill_name": "explain",
+  "category": "misc-other",
+  "source_repo_url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+  "source_type": "community",
+  "author_or_org": "SerhiiKorniienko",
+  "description_one_line": "Explain content or any concept inside it at the depth the user needs — ELI5, practitioner level, or expert deep-dive — with a jargon glossary and context the original assumes. Use when the user says \"explain this\", \"what does X mean here\", \"break this down\", \"I don't understand this part\", or shares",
+  "compatible_with": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "claude.ai"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

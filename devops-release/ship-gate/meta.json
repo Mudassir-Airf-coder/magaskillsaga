@@ -1,0 +1,18 @@
+{
+  "skill_name": "ship-gate",
+  "category": "devops-release",
+  "source_repo_url": "https://github.com/alirezarezvani/claude-skills",
+  "source_type": "community",
+  "author_or_org": "alirezarezvani",
+  "description_one_line": "",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 192,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 4,
+  "quality_notes": "very short body; no/partial YAML frontmatter; verified clean - no actual malicious pattern in files",
+  "license": "unknown",
+  "duplicate_of": null
+}

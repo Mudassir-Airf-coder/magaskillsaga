@@ -1,0 +1,18 @@
+{
+  "skill_name": "planning-with-files-de",
+  "category": "project-management",
+  "source_repo_url": "https://github.com/OthmanAdi/planning-with-files",
+  "source_type": "community",
+  "author_or_org": "OthmanAdi",
+  "description_one_line": "Manus-artiges Dateiplanungssystem zur Organisation und Verfolgung des Fortschritts komplexer Aufgaben. Erstellt task_plan.md, findings.md und progress.md. Wird verwendet, wenn der Benutzer plant, zerlegt oder organisiert: mehrstufige Projekte, Forschungsaufgaben oder Arbeiten mit über 5 Tool-Aufrufe",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": null,
+  "last_updated_on_source": "unknown",
+  "date_collected": "2026-08-03",
+  "quality_score": 3,
+  "quality_notes": "ok",
+  "license": "MIT",
+  "duplicate_of": null
+}

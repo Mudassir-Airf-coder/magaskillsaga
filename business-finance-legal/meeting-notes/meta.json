@@ -1,0 +1,18 @@
+{
+  "skill_name": "meeting-notes",
+  "category": "business-finance-legal",
+  "source_repo_url": "https://github.com/mergisi/awesome-openclaw-agents",
+  "source_type": "community",
+  "author_or_org": "mergisi",
+  "description_one_line": "Paste raw meeting notes and get a clean summary with key decisions and action items.",
+  "compatible_with": [
+    "claude-code"
+  ],
+  "stars_or_popularity_signal": 3873,
+  "last_updated_on_source": "2026-05-25",
+  "date_collected": "2026-08-03",
+  "quality_score": 5,
+  "quality_notes": "3873 stars; has bundled scripts/references",
+  "license": "MIT",
+  "duplicate_of": null
+}
